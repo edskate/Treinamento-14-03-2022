@@ -1,5 +1,11 @@
 {
               "workbench.colorCustomizations": {
                             "titleBar.activeBackground": "#96e2ca"
-              }
+              },
+              "spellchecker.ignoreWordsList": [
+                            "estudos",
+                            "Treinamento",
+                            "Março",
+                            "Semana"
+              ]
 }
